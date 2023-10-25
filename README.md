@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Calin Catuta
 
 **`Front-end Web Developer`**
