@@ -27,7 +27,6 @@ I love Video Games, Football and I make a lot of jokes.
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
     />
-
 <img
       aling="left"
       alt="lang"
@@ -56,7 +55,6 @@ I love Video Games, Football and I make a lot of jokes.
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
      />
-
 <img   
       aling="left"
       alt="lang"
