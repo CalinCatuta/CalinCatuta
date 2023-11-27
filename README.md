@@ -69,6 +69,8 @@ I love Video Games, Football and I make a lot of jokes.
       style="padding-right:20px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
      />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" style="padding-right:20px" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" style="padding-right:20px" alt="MongoDB" />
 <img
       aling="left"
       alt="lang"
