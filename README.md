@@ -48,13 +48,7 @@ I love video games and football,  and I make a lot of jokes.
       style="padding-right:20px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
      />
-<img
-      aling="left"
-      alt="lang"
-      width="40px"
-      style="padding-right:20px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-     />
+
 <img   
       aling="left"
       alt="lang"
