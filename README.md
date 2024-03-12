@@ -5,7 +5,6 @@
 My name is Calin Catuta. I am 24 years old, and I am looking for a job.
 in the field of web development as a front-end developer.
 I would prefer it to be remote, but I am also open to a hybrid or physical way of working.
-I have no work experience in the field, but I have worked remotely as a call center operator.
 I'm self-taught, and I want to become a full-stack in the future.
 I love video games and football,  and I make a lot of jokes.
 
