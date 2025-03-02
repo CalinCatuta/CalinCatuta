@@ -2,9 +2,7 @@
 
 **`Front-end Web Developer`**
 
-My name is Calin Catuta. I am 25 years old, and I am looking for a job.
-in the field of web development as a front-end developer.
-I would prefer it to be remote, but I am also open to a hybrid or physical way of working.
+My name is Calin Catuta.
 I'm self-taught, and I want to become a full-stack in the future.
 I love video games and football.
 
