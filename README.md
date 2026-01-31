@@ -3,8 +3,7 @@
 **`Front-end Web Developer`**
 
 My name is Calin Catuta.
-I'm self-taught, and I want to become a full-stack in the future.
-I love video games and football.
+I'm self-taught.
 
 ---
 
