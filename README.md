@@ -2,7 +2,6 @@
 
 **`Front-end Web Developer`**
 
-My name is Calin Catuta.
 I'm self-taught.
 
 ---
